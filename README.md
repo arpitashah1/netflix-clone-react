@@ -1,4 +1,5 @@
 # Netflix Clone (React)
+---
 
 ## Project Overview
 
@@ -21,7 +22,7 @@ This is a Netflix-inspired streaming UI built using React. The app mimics the co
 
 - Uses TMDB API or mock data
 
-  ---
+ ---
 
 ## Tech Stack
 React.js
